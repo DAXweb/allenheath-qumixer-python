@@ -6,3 +6,9 @@ Accept also input from stdin for send custom command.
 Note: this a fast and raw implementation. It's not so much refactored and probably there are bugs.
 Anyway..in my test it work well.
 
+
+Note2:
+Change the ip address of your mixer in the code. 
+
+Command:
+python3 main.py
